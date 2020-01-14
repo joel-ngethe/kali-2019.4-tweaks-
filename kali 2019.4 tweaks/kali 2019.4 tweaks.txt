@@ -1,0 +1,9 @@
+Kali 2019.4
+
+************* chang user icon *************
+/usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/
+rename your image to kali-menu.svg
+
+***************change the credential login wallpaper***************
+/usr/share/backgrounds/kali/
+rename your image to kali-light-16x9.png
